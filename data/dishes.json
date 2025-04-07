@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "name": "Yuca Frita",
+    "description": "Deliciosas yucas fritas, crujientes por fuera y suaves por dentro.",
+    "image": "../img/yuca.jpeg", 
+    "ingredients": ["Yuca", "Aceite", "Sal"],
+    "region": "Centroamérica",
+    "price": 40,
+    "category": "Aperitivos"
+    
+  },
+  {
+    "id": 2,
+    "name": "Pupusas",
+    "description": "Tortillas rellenas de queso, frijoles o chicharrón.",
+    "image": "../img/pupusas.jpeg",
+    "ingredients": ["Tortilla de maíz", "Queso", "Frijoles", "Chicharrón"],
+    "region": "El Salvador",
+    "price": 25,
+    "category": "Plato Principal"
+  },
+  {
+    "id": 3,
+    "name": "Torrejas",
+    "description": "Postre tradicional de El Salvador, hecho a base de pan y miel.",
+    "image": "../img/torrejas.jpeg",
+    "ingredients": ["Pan", "Miel", "Canela"],
+    "region": "El Salvador",
+    "price": 20,
+    "category": "Postres"
+  },
+  {
+    "id": 4,
+    "name": "Tamales Salvadoreños",
+    "description": "Tamales de masa de maíz rellenos de carne y salsa.",
+    "image": "../img/tamales.jpeg",
+    "ingredients": ["Masa de maíz", "Carne", "Salsa"],
+    "region": "El Salvador",
+    "price": 30,
+    "category": "Aperitivos"
+  }
+]
